@@ -1,0 +1,89 @@
+body
+{
+    text-align: center;
+
+}
+.front {
+    margin-right: 200px;
+}
+.skills{
+    width: 400px;
+    margin: auto;
+}
+.liste {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(51, 49, 49);
+}
+.presentation{ 
+    display: flex;
+    justify-content: space-around;
+}
+.heading{
+    box-shadow: 10px 10px 10px 10px gray;
+    border-radius: 5%;
+}
+
+
+header
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(45deg,rgb());
+}
+
+.software {
+    padding-top: 20px;
+    padding-right: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: rgb(15, 14, 14);
+}
+  
+    ul li {
+        list-style: none;
+      }
+ 
+    .profile-items img {
+        width: 50px;
+        height: 50px;
+        border-radius: 100px;
+        margin-left: 50px;
+     
+    }
+    .profile img{
+    width: 100px;
+     height: 100px;
+     border-radius: 50px;
+    }
+    :target {
+        width: 150px;
+        height: 100px;
+        border: 2px ;
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+    input {
+        width: 150px;
+        height: 50px;
+        border: 2px solid rgb(48, 85, 110);
+        border-radius: 20px;
+        margin-left: 80px;
+        margin-right: 80px;
+        color: rgb(67, 67, 160);
+
+    }
+    footer{
+        height: 100px;
+        margin-top: 2px;
+        padding-top:20px
+
+    }
+    .heading{
+       margin: auto;
+        width:700px;
+    }
